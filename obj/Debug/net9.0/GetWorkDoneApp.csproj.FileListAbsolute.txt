@@ -1,0 +1,14 @@
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.AssemblyInfoInputs.cache
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.AssemblyInfo.cs
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.csproj.CoreCompileInputs.cache
+D:\To DO List\GetWorkDoneApp\bin\Debug\net9.0\GetWorkDoneApp.exe
+D:\To DO List\GetWorkDoneApp\bin\Debug\net9.0\GetWorkDoneApp.deps.json
+D:\To DO List\GetWorkDoneApp\bin\Debug\net9.0\GetWorkDoneApp.runtimeconfig.json
+D:\To DO List\GetWorkDoneApp\bin\Debug\net9.0\GetWorkDoneApp.dll
+D:\To DO List\GetWorkDoneApp\bin\Debug\net9.0\GetWorkDoneApp.pdb
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.dll
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\refint\GetWorkDoneApp.dll
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.pdb
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\GetWorkDoneApp.genruntimeconfig.cache
+D:\To DO List\GetWorkDoneApp\obj\Debug\net9.0\ref\GetWorkDoneApp.dll
