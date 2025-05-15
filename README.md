@@ -28,6 +28,8 @@ Welcome to **Get Work Done**, a playful and simple To-Do List web app built with
 
 ## 📌 Tech Used
 
+- C#
+- .NET framework
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
